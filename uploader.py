@@ -5,7 +5,6 @@ from werkzeug.datastructures import  FileStorage
 import pixellib
 from pixellib.tune_bg import alter_bg
 
-
 app = Flask(__name__)
 UPLOAD_FOLDER = 'static/upload/'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER

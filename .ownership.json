@@ -1,0 +1,16 @@
+{
+  "repository_name": "ios-background-remover",
+  "description": "Code base for Photo Background Remover Service. To support Photogrammetry Service.",
+  "directorate": "TECH",
+  "namespace": "ios",
+  "security_owner": "ferico.samuel@tokopedia.com",
+  "app": [
+    {
+      "name": "ios-background-remover",
+      "description": "Code base for Photo Background Remover Service. To support Photogrammetry Service.",
+      "owner": "ferico.samuel@tokopedia.com",
+      "slack_channel": "teamios"
+    }
+  ],
+  "last_update":"11/10/2021"
+}
